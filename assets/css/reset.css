@@ -6,6 +6,7 @@
     --green: #00994D;
     --dark: #343433;
     --light: #F8F8F8;
+    --header: #E5E3DF75;
 }
 * {
     box-sizing: border-box;

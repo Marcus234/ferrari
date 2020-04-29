@@ -1,8 +1,30 @@
 @import "reset.css";
 
-.top-site {
+header.top-site {
+    width: 100%;
+    min-height: 80px;
+    position: relative;
     background-color: #E5E3DFBF;
 }
+#E5E3DF75
 .footer-site {
     background-color: #343433;
+}
+/*mobile first*/
+/*breakpoint*/
+/*tablet ou celular landcape*/
+@media (min-width: 576px) {
+
+}
+/*desktop*/
+@media (min-width: 768px) {
+    
+}
+/*large desktop*/
+@media (min-width: 992px) {
+    
+}
+/*extra large desktop*/
+@media (min-width: 1200px) {
+    
 }
